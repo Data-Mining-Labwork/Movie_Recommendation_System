@@ -1,0 +1,9 @@
+python3 -m venv recommendator
+source recommendator/bin/activate
+
+https://www.imdb.com/search/title/?title_type=feature&genres=horror
+https://www.imdb.com/search/title/?title_type=feature&genres=horror/next
+
+https://www.imdb.com/search/title/?genres=sci-fi&start={page_no}&explore=title_type,genres&ref_=adv_nxt
+
+https://www.imdb.com/search/title/?genres=horror&start={page_no}&explore=title_type,genres&ref_=adv_nxt
